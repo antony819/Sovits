@@ -11,4 +11,4 @@ It is ok for you guys to use. Please add credit to the GitHub link and my accoun
 
 Due to the limit of the storage size, I will delete the smallest step of the model and add the highest one.
 
-Work in speech. quite not work in sing haha!
+Work in speech. not quite work in sing haha!
